@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[pollard studio]]></title>
+        <description><![CDATA[pollard studio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Mar 2016 00:40:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Framing]]></title>
+            <description><![CDATA[<article><h1>Framing</h1><p>Here at pollard studio we offer a full service custom frame shop. Anything from documents to artwork to shadow boxes and more can be created to suit your personal style. Here's a list of things we frame. You may find some surprises.</p></article>]]></description>
+            <link>undefinedhere-at-pollard-studio-we-offer-a-full-service-custom-frame/index.html</link>
+            <guid isPermaLink="false">f80d2127-aa36-4e71-9307-8f77fbc20352</guid>
+            <pubDate>Tue, 15 Mar 2016 00:40:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
